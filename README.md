@@ -20,7 +20,7 @@ Nesse desafio foi solicitado a criação do site de uma sorveteria utilizando as
 
 ## 🔖 Layout
 
-Você pode visualizar o layout **mobile** do projeto através [desse link](<https://www.figma.com/file/drBBktNRdtCIUiN4cZk4yo/Stage-03---Mobile-First/duplicate>) e o layout **desktop** atráves [desse link](<https://www.figma.com/file/pddZCuQIRLjk5dEHQ4L4YR/Stage-03---Grid-com-anima%C3%A7%C3%B5es/duplicate>) .
+Você pode visualizar o layout **mobile** do projeto através [desse link](<https://www.figma.com/file/drBBktNRdtCIUiN4cZk4yo/Stage-03---Mobile-First/duplicate>) e o layout **desktop** atráves [desse link](<https://www.figma.com/file/pddZCuQIRLjk5dEHQ4L4YR/Stage-03---Grid-com-anima%C3%A7%C3%B5es/duplicate>).
 
 ## 🚀 Tecnologias
 
