@@ -8,7 +8,7 @@
 
 ## 💻 Sobre o desafio
 
-Nesse desafio foi solicitado a criação do site de uma sorveteria utilizando as seguintes funcionalidades:
+Nesse desafio foi solicitado a criação do site de uma sorveteria utilizando:
 
 - Mobile First
 - Unidade de medida flexível
